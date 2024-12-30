@@ -1,2 +1,2 @@
-# Web-Scrapping
-ETL Processing with Web Scrapping Method
+# Web-Scraping
+ETL Processing with Web Scraping Method
